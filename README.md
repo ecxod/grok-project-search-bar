@@ -5,6 +5,6 @@ Get Yourself a Code Injector Add-on ( we recomand [Code Injector by Saba](https:
 
 Load the following javascript into the Code Injector and visit https://grok.com/project
 
-
+<img src="grok-search-bar.png">
 
 If the search Bar does not show refresh the Site https://grok.com/project
