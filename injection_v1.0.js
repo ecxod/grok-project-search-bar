@@ -97,7 +97,5 @@
         searchContainer.addEventListener('click', e => {
             if (e.target.tagName === 'svg' || e.target.closest('svg')) input.focus();
         });
-
-        console.log('Grok Projects Live-Suche aktiv – viel Spaß!');
     }
 })();
