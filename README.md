@@ -7,4 +7,8 @@ Load the following javascript into the Code Injector and visit https://grok.com/
 
 <img src="grok-search-bar.png">
 
+You get something like this :
+
+<img src="search-bar-result.JPG">
+
 If the search Bar does not show refresh the Site https://grok.com/project
